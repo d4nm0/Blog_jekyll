@@ -1,4 +1,4 @@
 title: "Blog"
 email: "dan@monceau.pro"
 description: "Un blog sur l'univers open source."
-theme: minima
+theme: cotes2020/jekyll-theme-chirpy
