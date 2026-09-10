@@ -1,21 +1,4 @@
 title: "Blog"
 email: "dan@monceau.pro"
 description: "Un blog sur l'univers open source."
-theme: cotes2020/jekyll-theme-chirpy
-
-# Paramètres spécifiques à Chirpy
-theme: jekyll-theme-chirpy # ou géré via les gemfiles selon la méthode d'installation
-lang: fr-FR
-timezone: Europe/Paris
-
-# Auteur
-author:
-  name: Dan
-  email: "dan@monceau.pro"
-  social:
-    name: Dan
-    links:
-      - https://github.com/d4nm0
-
-# Activer le mode sombre par défaut ou laisser le choix
-dark_mode: auto # 'true', 'false', ou 'auto'
+theme: jekyll-theme-hacker
